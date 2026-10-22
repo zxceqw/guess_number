@@ -7,7 +7,5 @@ while guess != number:
         guess = int(input())
     elif guess < number:
         print('Ваше число меньше загаданного')
-        guess = int(input())
-        
+        guess = int(input())    
 print('Отличная интуиция! Вы угадали число :)')
-        
