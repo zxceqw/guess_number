@@ -9,3 +9,4 @@ while guess != number:
         print('Ваше число меньше загаданного')
         guess = int(input())
 print('Отличная интуиция! Вы угадали число :)')
+
